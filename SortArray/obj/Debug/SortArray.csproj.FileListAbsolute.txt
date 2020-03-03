@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\SortArray\obj\Debug\SortArray.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\SortArray\bin\Debug\SortArray.exe.config
+C:\Users\Олег\source\repos\SortArray\bin\Debug\SortArray.exe
+C:\Users\Олег\source\repos\SortArray\bin\Debug\SortArray.pdb
+C:\Users\Олег\source\repos\SortArray\obj\Debug\SortArray.exe
+C:\Users\Олег\source\repos\SortArray\obj\Debug\SortArray.pdb
