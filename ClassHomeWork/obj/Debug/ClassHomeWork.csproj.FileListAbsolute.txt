@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\ClassHomeWork\bin\Debug\ClassHomeWork.exe.config
+C:\Users\Олег\source\repos\ClassHomeWork\bin\Debug\ClassHomeWork.exe
+C:\Users\Олег\source\repos\ClassHomeWork\bin\Debug\ClassHomeWork.pdb
+C:\Users\Олег\source\repos\ClassHomeWork\obj\Debug\ClassHomeWork.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\ClassHomeWork\obj\Debug\ClassHomeWork.exe
+C:\Users\Олег\source\repos\ClassHomeWork\obj\Debug\ClassHomeWork.pdb
