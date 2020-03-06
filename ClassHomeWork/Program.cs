@@ -8,7 +8,7 @@ namespace ClassHomeWork
 {
     class Text
     {
-        public String S="";
+        public String S;
         public Text()
         {
             //S = "Here is the fashion to be your ad :)";
